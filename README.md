@@ -89,3 +89,6 @@ url(length, [scheme]):
             .gov,
             .io,
             .mil
+
+## Limitations
+The correct mathematical distibution of the values generated has not been tested.
