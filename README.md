@@ -2,7 +2,7 @@
 Random values generator for different data types
 
 ## Installation
-Just clone the repo :)
+Just clone the repo and copy the file randstorm.js into the folder of your convenience 
 
 ## Usage
 1. Require it and assign to a variable
